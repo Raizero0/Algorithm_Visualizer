@@ -14,4 +14,4 @@ Berikut adalah platform yang digunakan dalam pembuatan dan perekaman Video Etika
 
 Tonton hasil video project Etika Profesi kami melalui link di bawah ini:
 
-[![YouTube Video](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](TARUH_LINK_YOUTUBE_LU_DI_SINI)
+[![YouTube Video](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/9_3dgA9U4v8?si=HjS7yUqOZnYpAwou)
